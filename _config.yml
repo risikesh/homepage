@@ -2,7 +2,7 @@
 title: "TextLog"
 description: "Minimalist Jekyll theme for documentation site"
 baseurl: "/" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: "risikesh.github.io"
+url: ""
 author: "John Doe"
 
 # Build settings
