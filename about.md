@@ -29,15 +29,18 @@ Coming soon
 ## Work/Teaching Experience:
 
 **Qualcomm**  
-**>Pre-Silicon Performance Engineer**(July. 2021 - Present)
+**>>Pre-Silicon Performance Engineer**(July. 2021 - Present)  
 Working on performace analysis of Qualcomm Chipsets.  
-
+---
 **International Institute of Information Technology**  
+
 **>>TEACHING ASSISTANT**:(Jan. 2020 - Dec. 2020)  
 1. Worked as a Teaching assistant for Digital Design Course by Prof. Subajit Sen (Jan-June).  
 2. Worked as a Teaching assistant for System design with FPGA Course by Prof. Nanditha Rao (Aug-Dec).  
+
 **>>SUMMER RESEARCH INTERN**:(May. 2018 - July. 2018)  
 Studied about different Cache Memory Architecture, in specific Compression Techniques to improve the performance of the overall system.  
+---
 
 ## Projects:
 
@@ -58,6 +61,6 @@ applied real time and the filtered image is shown as an output using VGA ports.
 **Road condition detection based on real time Gyroscope and Accelerometer data**  
 The raw sensor data( Gyroscope and Accelerometer) is collected from the mobile phone which is attached to a vehicle moving at a constant speed of 20Km/Hr. Then the roads were rated out of 5 for their roughness. This data collected is used to train a machine learning model to rate the Road Out of 5 for their roughness. The model was able to predict with a 80% accuracy for test data set.
 **2D - LIDAR Map system**  
-Developing a 2D lidar using a 1D lidar and integrating it with the Robotics Operating System(ROS) environment.Then the data point from the lidar system is used to Create a 2D-map for navigation and positioning of the vehicle in a closed environment.
+Developing a 2D lidar using a 1D lidar and integrating it with the Robotics Operating System(ROS) environment.Then the data point from the lidar system is used to Create a 2D-map for navigation and positioning of the vehicle in a closed environment.  
 **Logic Finder Circuit**  
 Developed a circuit that can find out the simplified Logic (in SOP form) of any circuit with a complex Combination of logic gates with up to 3 inputs. This circuit can also be used for testing of the IC’s. Around 65 Logic gates are used in developing the circuit and One clock is maintained to sync all the Logic gates. [(Video)](https://drive.google.com/file/d/1omsXIp1Nq313qOPZv1tFRh-yEnldqGyC/view?usp=sharing)
