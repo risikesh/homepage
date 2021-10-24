@@ -31,7 +31,7 @@ Coming soon
 **Qualcomm**  
 **>>Pre-Silicon Performance Engineer**(July. 2021 - Present)  
 Working on performace analysis of Qualcomm Chipsets.  
----
+
 **International Institute of Information Technology**  
 
 **>>TEACHING ASSISTANT**:(Jan. 2020 - Dec. 2020)  
@@ -40,7 +40,6 @@ Working on performace analysis of Qualcomm Chipsets.
 
 **>>SUMMER RESEARCH INTERN**:(May. 2018 - July. 2018)  
 Studied about different Cache Memory Architecture, in specific Compression Techniques to improve the performance of the overall system.  
----
 
 ## Projects:
 
